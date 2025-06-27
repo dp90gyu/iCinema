@@ -5,32 +5,7 @@ A full-stack MERN website for movie theaters that allows users to browse for fil
 
 <h2>Installation</h2>
 Use the package manager [npm](https://www.npmjs.com/) to install iCinema.
-
-Fork the Project by using:
-
-```bash
-git clone https://github.com/orifmilod/iCinema.git
-```
-
-then cd into the project by using:
-
-```
-cd iCinema
-```
-
-Now, Install the packages by running:
-
-```bash
-npm run setup
-```
-
-Run project with command
-
-```bash
-npm run dev
-```
-
-<h2> Built with  </h2>
+ with  </h2>
 <ul>
   <li>FrontEnd: <b> React.JS, Redux Library, Bootstrap, HTML/CSS </b></li>
   <li>Backend:  <b> Node.JS, Express.JS </b> </li>
